@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "org.cheems" "\0"
-            VALUE "FileDescription", "portage" "\0"
+            VALUE "FileDescription", "portage_backend" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "portage" "\0"
+            VALUE "InternalName", "portage_backend" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 org.cheems. All rights reserved." "\0"
-            VALUE "OriginalFilename", "portage.exe" "\0"
-            VALUE "ProductName", "portage" "\0"
+            VALUE "OriginalFilename", "portage_backend.exe" "\0"
+            VALUE "ProductName", "portage_backend" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

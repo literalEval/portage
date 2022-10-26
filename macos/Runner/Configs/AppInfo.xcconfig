@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = portage
+PRODUCT_NAME = portage_backend
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = org.cheems.portage
+PRODUCT_BUNDLE_IDENTIFIER = org.cheems.portageBackend
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2022 org.cheems. All rights reserved.

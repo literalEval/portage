@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/portage.iml" filepath="$PROJECT_DIR$/portage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/portage_android.iml" filepath="$PROJECT_DIR$/android/portage_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portage_backend.iml" filepath="$PROJECT_DIR$/portage_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/portage_backend_android.iml" filepath="$PROJECT_DIR$/android/portage_backend_android.iml" />
     </modules>
   </component>
 </project>

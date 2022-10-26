@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.cheems.portage">
+    package="org.cheems.portage_backend">
    <application
-        android:label="portage"
+        android:label="portage_backend"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
